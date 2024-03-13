@@ -1,0 +1,4 @@
+﻿  RekabetOyunu.cpp
+C:\Users\Taha Buğra\source\repos\FutbolRekabetOyunu\RekabetOyunu.cpp(11,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Taha Buğra\source\repos\FutbolRekabetOyunu\RekabetOyunu.cpp(13,6): warning C4101: 'BilgisayarSkor': yerel değişken başvurusu kaldırıldı
+  FutbolRekabetOyunu.vcxproj -> C:\Users\Taha Buğra\source\repos\FutbolRekabetOyunu\x64\Debug\FutbolRekabetOyunu.exe
