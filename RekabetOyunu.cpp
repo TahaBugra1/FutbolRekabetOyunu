@@ -12,7 +12,7 @@ int main() {
 
 	int BilgisayarSkor, OyuncuSkor = 0, x, secim, OyuncuGolSayisi;
 
-	cout << "--------------------------REKABETE HOÞGELDÝNÝZ--------------------------------" << endl;
+	cout << "--------------------------REKABET OYUNUNA HOÞGELDÝNÝZ--------------------------------" << endl;
 	cout << "--------- Galatasaray = 1 , Fenerbahçe = 2 , Beþiktaþ = 3 , Trabzonspor = 4 -----------" << endl;
 	cout << "NOT : Seçiminiz yukardaki gibi olmalýdýr " << endl << endl;
 
